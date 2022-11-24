@@ -24,3 +24,4 @@ Contras:
 - O código pode se tornar mais complicado, pois você precisa introduzir muitas subclasses novas para implementar o padrão. O melhor cenário é quando você está introduzindo o padrão em uma hierarquia existente de classes de criadores.
 
 
+Link do vídeo explicativo: https://drive.google.com/file/d/1dC97XW_L11NyfdzRygh5Syj-w4KRZW3M/view?usp=sharing
